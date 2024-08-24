@@ -6,3 +6,4 @@
     - I hope the guide is factually correct as I have no way to actually test the process on a Trezor device.
     - Similar as #1, you already have articles for this. I've decided to create a universal guide that is not specific for any specific exchange and include some theory and warnings.
 3. [What is SLIP39?](/articles/SLIP39-trezor.md)
+    - Again, I hope that the instructions are factually correct, as I currently cannot test the steps on a Trezor device.
