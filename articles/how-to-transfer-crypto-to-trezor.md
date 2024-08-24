@@ -1,4 +1,4 @@
-# How to transfer cryptocurrency from an exchange to Trezor hardware wallet
+# How to transfer cryptocurrency from an exchange to a Trezor hardware wallet
 
 Have you recently bought your first Trezor hardware wallet? Congratulations, it is now time to move your funds from an exchange to your Trezor.
 
@@ -18,7 +18,7 @@ Once you have your wallet ready and with you, you can start transferring funds t
 2. Unlock your Trezor wallet using your selected PIN.
 3. Select an account depending on what currency you want to transfer to your hardware wallet.
 
-    - If you do not have an account for the currency you want to transfer, you can [create one](https://trezor.io/learn/a/manage-accounts-in-trezor-suite). See the list of coins [supported by Trezor](https://trezor.io/coins)
+    - If you do not have an account for the currency you want to transfer, you can [create one](https://trezor.io/learn/a/manage-accounts-in-trezor-suite). See the list of coins [supported by Trezor](https://trezor.io/coins).
 
     ![Select account in Trezor Suite](https://trezor.io/content/wysiwyg/Images_sorted/PUBLIC_START_Crypto_101_NO_FOLDER/Binance%20to%20Trezor/Empower_update/account_new.png)
 
