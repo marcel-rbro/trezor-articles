@@ -45,4 +45,5 @@ Visit the following pages for more information about SLIP39:
 
 - [Trezor Firmware documentation](https://docs.trezor.io/trezor-firmware/core/misc/slip0039.html)
 - [SatoshiLabs SLIPs repository](https://github.com/satoshilabs/slips/blob/master/slip-0039.md)
+- [Implementation of SLIP39 on Trezor wallets](https://github.com/trezor/python-shamir-mnemonic)
 - [Trezor Learn article about SLIPs and BIPs](https://trezor.io/learn/a/what-are-bips-slips)
