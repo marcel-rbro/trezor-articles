@@ -23,7 +23,7 @@ To recover a SLIP39 secret, you need a predefined number of shares (known as a t
 
 BIP39 uses a mnemonic seed phrase of 12 or 24 words to for wallet backup and recovery. However, to recover a wallet protected by BIP39, you need all of the mnemonic words. If you lose a single word, you need to try all of the combinations to guess the lost word. As a result, you need to store all of the words in every backup location.
 
-On the other hand, SLIP39 splits the passphrase multiple words, but a pre-defined amount of words is required to recover the secret. For example, you can select 5 shares, with only 3 required to recover the wallet. This way you can store the shares of words individually or in sets of multiple shares. If someone finds one of the backup locations, they are not able to recover your wallet. Additionally, if one of the locations is destroyed, you are still able to recover the wallet using the remaining locations.
+On the other hand, SLIP39 splits the passphrase into multiple shares (sets of words), but a pre-defined amount of shares is required to recover the secret. For example, you can select 5 shares, with only 3 required to recover the wallet. This way you can store the shares of words individually or in sets of multiple shares. If someone finds one of the backup locations, they are not able to recover your wallet. Additionally, if one of the locations is destroyed, you are still able to recover the wallet using the remaining shares.
 
 ## How to use SLIP39 with Trezor wallets?
 
