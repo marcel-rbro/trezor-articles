@@ -4,6 +4,8 @@ An **Unspent Transaction Output (UTXO)** is a term for the amount of cryptocur
 
 For example, when a user wants to send a Bitcoin transaction, they use their UTXOs as the input of the transaction. The output of the transaction is a UTXO that is now owned by the recipient and, if the amount of Bitcoin in the input UTXOs was more than the transaction amount, a UTXO for the remaining difference owned by the sender. These newly created UTXOs can then be used by both users as inputs for other transactions.
 
+![Diagram explaining UTXOs](assets/utxo_diagram.png)
+
 > **How does UTXO compare to real currency?**  
 >
 > If you want to purchase a meal that costs $18.75, but you only have a $20 note to spend, you will get back $1.25 and a receipt that confirms that.
@@ -27,7 +29,6 @@ The fees paid for each transaction are determined not only by the amount of cryp
 [Coin control](https://trezor.io/learn/a/coin-control-in-trezor-suite) is an advanced feature that allows you to choose which UTXOs you want to spend in a transaction. If used properly, it can improve privacy, though we only recommend that you use it once you are familiar with the principles. You can learn more about coin control in the following video:
 
 [![Coin control video](https://img.youtube.com/vi/WrLjLhHvwhM/0.jpg)](https://www.youtube.com/watch?v=WrLjLhHvwhM)
-
 
 Manually selecting the UTXOs you use for each transaction can make a difference in two main ways:  
 
