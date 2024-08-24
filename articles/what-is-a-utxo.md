@@ -4,7 +4,7 @@ An **Unspent Transaction Output (UTXO)** is a term for the amount of cryptocur
 
 For example, when a user wants to send a Bitcoin transaction, they use their UTXOs as the input of the transaction. The output of the transaction is a UTXO that is now owned by the recipient and, if the amount of Bitcoin in the input UTXOs was more than the transaction amount, a UTXO for the remaining difference owned by the sender. These newly created UTXOs can then be used by both users as inputs for other transactions.
 
-![Diagram explaining UTXOs](assets/utxo_diagram.png)
+[![Diagram explaining UTXOs - source https://docs.cardano.org/about-cardano/learn/eutxo-explainer/](assets/utxo_diagram.png)](https://docs.cardano.org/about-cardano/learn/eutxo-explainer/)
 
 > **How does UTXO compare to real currency?**  
 >
