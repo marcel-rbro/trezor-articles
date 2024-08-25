@@ -16,7 +16,7 @@ For example, when a user wants to send a Bitcoin transaction, they use their UTX
 >
 > If you have $30 in cash, you will have more than one note as there is no such thing as a $30 note. You can have any combination of notes that total to $30. UTXOs work in a similar way. When you see the total balance of your account, you have UTXOs for different amounts that make up the total balance of your account.
 >
-> So, if we go to purchase a a new Trezor for $67, you most likely do not have a UTXO for exactly $67. Therefore, you will need to spend a combination of UTXOs because it is not possible to split the UTXOs. If you spend $80 worth of UTXOs, you will get a new UTXO of $13 back as "change" and Trezor will receive a new UTXO of $67 that is added to their total balance.
+> So, if we go to purchase a new Trezor for $67, you most likely do not have a UTXO for exactly $67. Therefore, you will need to spend a combination of UTXOs because it is not possible to split the UTXOs. If you spend $80 worth of UTXOs, you will get a new UTXO of $13 back as "change" and Trezor will receive a new UTXO of $67 that is added to their total balance.
 
 ## Why do UTXOs matter?
 

@@ -15,7 +15,7 @@ The process to create a set of mnemonic words works as follows:
 
 1. A secret value called Master Secret (MS) is encrypted using a passphrase to create an Encrypted Master Secret (EMS).
 2. The EMS is then split into a number of shares which are encoded as a set of mnemonic words. Each set of words represents one share.
-3. The individual mnemonic words can be stored together. However, you can also store each mnemonic word individually or in sets of words.
+3. The individual mnemonic words can be stored together. However, you can also store each share individually or in sets of words.
 
 To recover a SLIP39 secret, you need a predefined number of shares (known as a threshold) from all the words.
 
